@@ -1122,12 +1122,11 @@ private fun AddEditAlarmScreenContent(
                                     }
 
                                     QRAlarmSwitch(
-                                        checked = false,
+                                        checked = state.areVibrationsEnabled,
                                         onCheckedChange = {
-                                            onEvent(
-                                                AddEditAlarmScreenUserEvent
-                                                    .TryUseSpecialAlarmSettings
-                                            )
+                                            onEvent(AddEditAlarmScreenUserEvent.VibrationsEnabledChanged(
+                                                    areEnabled = it
+                                                ))
                                         }
                                     )
                                 }
@@ -1164,11 +1163,12 @@ private fun AddEditAlarmScreenContent(
                                     }
 
                                     QRAlarmSwitch(
-                                        checked = false,
+                                        checked = state.areVibrationsEnabled,
                                         onCheckedChange = {
                                             onEvent(
-                                                AddEditAlarmScreenUserEvent
-                                                    .TryUseSpecialAlarmSettings
+                                                AddEditAlarmScreenUserEvent.VibrationsEnabledChanged(
+                                                    areEnabled = it
+                                                )
                                             )
                                         }
                                     )

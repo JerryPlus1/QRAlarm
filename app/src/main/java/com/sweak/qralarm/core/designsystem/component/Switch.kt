@@ -16,7 +16,7 @@ fun QRAlarmSwitch(
         checked = checked,
         onCheckedChange = onCheckedChange,
         colors = SwitchDefaults.colors(
-            checkedTrackColor = MaterialTheme.colorScheme.secondary
+            checkedTrackColor = MaterialTheme.colorScheme.primary
         ),
         modifier = modifier
     )
