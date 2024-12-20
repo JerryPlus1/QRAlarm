@@ -1,41 +1,41 @@
 <resources>
     <plurals name="number_of_snoozes_plural">
-        <item quantity="one">%1$d snooze</item>
-        <item quantity="other">%1$d snoozes</item>
+        <item quantity="one">%1$d 次</item>
+        <item quantity="other">%1$d 次</item>
     </plurals>
 
     <plurals name="snooze_duration_plural">
-        <item quantity="other">%1$d minutes</item>
+        <item quantity="other">%1$d 分钟</item>
     </plurals>
 
     <plurals name="number_of_seconds_plural">
-        <item quantity="other">%1$d seconds</item>
+        <item quantity="other">%1$d 秒</item>
     </plurals>
 
     <plurals name="days">
-        <item quantity="one">%1$d day</item>
-        <item quantity="other">%1$d days</item>
+        <item quantity="one">%1$d 天</item>
+        <item quantity="other">%1$d 天</item>
     </plurals>
 
     <plurals name="hours">
-        <item quantity="one">%1$d hour</item>
-        <item quantity="other">%1$d hours</item>
+        <item quantity="one">%1$d 小时</item>
+        <item quantity="other">%1$d 小时</item>
     </plurals>
 
     <plurals name="minutes">
-        <item quantity="one">%1$d minute</item>
-        <item quantity="other">%1$d minutes</item>
+        <item quantity="one">%1$d 分钟</item>
+        <item quantity="other">%1$d 分钟</item>
     </plurals>
 
     <string name="app_name" translatable="false">QRAlarm</string>
     <string name="welcome_to_qralarm">欢迎使用QRAlarm！</string>
     <string name="wake_up_catchphrase">起床！</string>
-    <string name="wake_up_catchphrase_description">像往常一样设置闹钟，准备好第二天早上被QRAlarm叫醒。</string>
-    <string name="get_up_catchphrase">起身！</string>
-    <string name="get_up_catchphrase_description">QRAlarm会确保你不仅仅是醒了，而是起床并走向关闭闹钟的地方。</string>
-    <string name="rise_up_catchphrase">起立！</string>
-    <string name="rise_up_catchphrase_description">扫描二维码，关闭闹钟，告别赖床！享受你的清晨与QRAlarm！</string>
-    <string name="lets_go">我们走！</string>
+    <string name="wake_up_catchphrase_description">像往常一样设置闹钟，准备好第二天早上被QRAlarm叫醒🌟💕</string>
+    <string name="get_up_catchphrase">起床！</string>
+    <string name="get_up_catchphrase_description">QRAlarm会确保你不仅仅是醒了，而是起床并走向关闭闹钟的地方🎶😎</string>
+    <string name="rise_up_catchphrase">无痛起床！</string>
+    <string name="rise_up_catchphrase_description">一扫二维码，闹钟即刻停不再赖被窝，清晨乐安宁。快来体验 QRAlarm，开启活力的一天！ 🏃</string>
+    <string name="lets_go">闹钟启动！</string>
     <string name="home">首页</string>
     <string name="alarms">闹钟</string>
     <string name="alarm">闹钟</string>
@@ -44,13 +44,13 @@
     <string name="ringtone">铃声</string>
     <string name="vibrations">震动</string>
     <string name="use_qr_bar_code">使用二维码/条形码</string>
-    <string name="assign_specific_code">分配特定代码</string>
-    <string name="assign_specific_code_description">该闹钟可以使用任意代码关闭。点击下方扫描您自己的二维码或条形码以用于关闭此闹钟：</string>
-    <string name="scan_your_own_code">扫描您自己的代码</string>
-    <string name="gentle_wake_up">温和唤醒</string>
+    <string name="assign_specific_code">使用特定二维码</string>
+    <string name="assign_specific_code_description">该闹钟可以使用任意代码关闭，点击下方扫描您自己的二维码或条形码以用于关闭此闹钟：</string>
+    <string name="scan_your_own_code">扫描指定的二维码/条形码</string>
+    <string name="gentle_wake_up">渐强铃声</string>
     <string name="temporary_mute">临时静音</string>
-    <string name="gentle_wake_up_description">闹钟音量会在指定时间内逐渐增大。</string>
-    <string name="temporary_mute_description">点击停止后，使用二维码/条形码时，闹钟会在指定时间内静音。</string>
+    <string name="gentle_wake_up_description">闹钟音量会在指定时间内逐渐增大</string>
+    <string name="temporary_mute_description">点击停止后，使用二维码/条形码时，闹钟会在指定时间内静音</string>
     <string name="only_once">仅一次</string>
     <string name="custom">自定义</string>
     <string name="number_of_snoozes">贪睡次数：</string>
@@ -68,7 +68,7 @@
     <string name="code_assigned">代码已分配！</string>
     <string name="current_code">当前代码：%1$s</string>
     <string name="camera_permission_required">需要相机权限</string>
-    <string name="camera_permission_required_description">需要相机权限来扫描二维码。请进入设置并手动授权相机权限。</string>
+    <string name="camera_permission_required_description">需要相机权限来扫描二维码，请进入设置并手动授权相机权限</string>
     <string name="settings">设置</string>
     <string name="cancel">取消</string>
     <string name="code_successfully_scanned">代码扫描成功！</string>
@@ -76,19 +76,19 @@
     <string name="clear_assigned_code">清除已分配的代码</string>
     <string name="permissions_required">需要权限！</string>
     <string name="camera">相机</string>
-    <string name="camera_usage">用于扫描二维码/条形码。</string>
-    <string name="alarms_usage">用于精确设置闹钟时间。</string>
+    <string name="camera_usage">用于扫描二维码/条形码</string>
+    <string name="alarms_usage">用于精确设置闹钟时间</string>
     <string name="notifications">通知</string>
-    <string name="notifications_usage">用于在闹钟响起时伴随显示通知。</string>
+    <string name="notifications_usage">用于在闹钟响起时伴随显示通知</string>
     <string name="full_screen_display">全屏显示</string>
-    <string name="full_screen_display_usage">用于显示全屏闹钟通知。</string>
+    <string name="full_screen_display_usage">用于显示全屏闹钟通知</string>
     <string name="notifications_permission_required">需要通知权限</string>
-    <string name="notifications_permission_required_description">需要通知权限来提醒您设定的闹钟。请进入设置并手动授权通知权限。</string>
+    <string name="notifications_permission_required_description">需要通知权限来提醒您设定的闹钟，请进入设置并手动授权通知权限</string>
     <string name="delete_alarm">删除闹钟</string>
     <string name="delete_this_alarm">确定删除此闹钟吗？</string>
     <string name="delete">删除</string>
     <string name="discard_changes">放弃更改？</string>
-    <string name="discard_changes_description">对该闹钟所做的任何更改都将被放弃并不会保存。确定要放弃吗？</string>
+    <string name="discard_changes_description">对该闹钟所做的任何更改都将被放弃并不会保存，确定要放弃更改吗？</string>
     <string name="discard">放弃</string>
     <string name="alarm_in">闹钟将在：</string>
     <string name="alarm_notification_channel_name">闹钟通知</string>
@@ -97,7 +97,7 @@
     <string name="alarm_set_indication_notification_channel_name">闹钟设置通知</string>
     <string name="alarm_set_indication_notification_channel_description">通知您当前设置的闹钟或错过的闹钟，隐藏在通知栏，不发出声音</string>
     <string name="alarm_missed_notification_title">错过闹钟！</string>
-    <string name="alarm_missed_notification_text">您设定的闹钟可能由于手机时间变动或手机关闭而错过。</string>
+    <string name="alarm_missed_notification_text">您设定的闹钟可能由于手机时间变动或手机关闭而错过</string>
     <string name="alarm_wake_up">闹钟 - 起床！</string>
     <string name="stop">停止</string>
     <string name="snooze_capitals">贪睡</string>
@@ -105,8 +105,8 @@
     <string name="upcoming_alarm_indication_notification_title">即将到来的闹钟</string>
     <string name="upcoming_alarm_indication_notification_text">闹钟已设定为 %1$s</string>
     <string name="next_step">下一步</string>
-    <string name="alarm_in_less_than_1_hour_to_edit_scan_code">闹钟将在不到1小时内响起 - 为了编辑，请通过扫描代码关闭闹钟。</string>
-    <string name="alarm_in_less_than_1_hour_scan_code_to_disable">闹钟将在不到1小时内响起 - 请扫描代码关闭闹钟。</string>
+    <string name="alarm_in_less_than_1_hour_to_edit_scan_code">闹钟将在不到1小时内响起 - 为了编辑，请通过扫描代码关闭闹钟</string>
+    <string name="alarm_in_less_than_1_hour_scan_code_to_disable">闹钟将在不到1小时内响起 - 请扫描代码关闭闹钟</string>
     <string name="kalimba">卡林巴</string>
     <string name="classic_alarm">经典闹钟</string>
     <string name="rooster">公鸡</string>
@@ -114,42 +114,42 @@
     <string name="introduction">简介</string>
     <string name="everyday">每天</string>
     <string name="no_alarms">没有闹钟</string>
-    <string name="create_using_button">使用上方或下方的 + 按钮创建一个闹钟。</string>
+    <string name="create_using_button">使用上方或下方的 + 按钮创建一个闹钟</string>
     <string name="optimization_guide">优化指南</string>
     <string name="optimize_qralarm">优化QRAlarm</string>
-    <string name="ensure_the_best_performance">确保最佳性能！⏰ 🚀</string>
-    <string name="optimization_screen_description">以下设置将帮助QRAlarm在您的系统中以最佳方式运行，带给您最美好的早晨！</string>
-    <string name="enable_background_work">启用后台工作</string>
-    <string name="enable_background_work_description">不允许系统干扰您的闹钟，确保您安心入睡！</string>
+    <string name="ensure_the_best_performance">确保权限已经被授予！⏰ 🚀</string>
+    <string name="optimization_screen_description">想要 QRAlarm 陪你开启超棒的早晨吗？快来康康这些最佳设置，让它在你的系统里火力全开，带你嗨翻每个清晨！ 😍</string>
+    <string name="enable_background_work">保留后台任务💡</string>
+    <string name="enable_background_work_description">不允许系统干扰您的闹钟，确保您安心入睡！😴😴💤</string>
     <string name="fully_optimize_for_your_system">为您的系统全面优化</string>
-    <string name="fully_optimize_for_your_system_description">某些Android系统对运行中的应用有特定限制，可能会影响QRAlarm。按照您的手机说明进行优化：</string>
+    <string name="fully_optimize_for_your_system_description">某些Android系统对运行中的应用有特定限制，可能会影响闹钟的运行，按照您的手机说明进行优化：</string>
     <string name="ensure_the_best_settings_possible">确保最佳设置</string>
-    <string name="ensure_the_best_settings_possible_description">确保以下设置已启用（如果您的系统支持）：</string>
-    <string name="display_on_lock_screen_description">闹钟响起时，闹钟将在锁屏上快速可见。</string>
+    <string name="ensure_the_best_settings_possible_description">确保以下设置已启用：</string>
+    <string name="display_on_lock_screen_description">闹钟响起时，闹钟将在锁屏上显示</string>
     <string name="autostart">开机自启</string>
-    <string name="autostart_description">手机重启后自动启用闹钟。</string>
+    <string name="autostart_description">手机重启后将自启动闹钟</string>
     <string name="display_on_lock_screen">锁屏显示</string>
-    <string name="work_in_background_limited_click_to_enable">后台工作已受限。点击启用。</string>
-    <string name="work_in_background_enabled">后台工作已启用。做得好！</string>
-    <string name="setting_unavailable_refer_to_the_next_step">设置不可用 - 请参阅下一步。</string>
-    <string name="dontkilmyapp_com" translatable="false">dontkillmyapp.com</string>
-    <string name="dontkilmyapp_com_full_uri" translatable="false">https://dontkillmyapp.com/</string>
-    <string name="select_manufacturer_and_follow_instructions">选择您的手机制造商并按照提供的说明操作。</string>
-    <string name="click_to_go_to_app_settings">点击进入QRAlarm应用设置。</string>
+    <string name="work_in_background_limited_click_to_enable">后台工作已受限，点击启用</string>
+    <string name="work_in_background_enabled">后台工作已启用</string>
+    <string name="setting_unavailable_refer_to_the_next_step">设置不可用 - 请参阅下一步</string>
+    <string name="dontkilmyapp_com" translatable="false">QRalarm</string>
+    <string name="dontkilmyapp_com_full_uri" translatable="false">Android 大作业 QRalarm</string>
+    <string name="select_manufacturer_and_follow_instructions">选择您的手机制造商并按照提供的说明操作</string>
+    <string name="click_to_go_to_app_settings">点击进入应用设置</string>
     <string name="issue_opening_the_page">打开页面时出现问题…</string>
-    <string name="optimization_dialog_description">通过查看我们的优化指南，确保QRAlarm在您的系统中以最佳状态运行，安心入睡！</string>
-    <string name="qralarm_pro" translatable="false">QRAlarm PRO</string>
+    <string name="optimization_dialog_description">通过授予权限，确保本应用在系统中以最佳状态运行，让你安心入睡！</string>
+    <string name="qralarm_pro" translatable="false">QRAlarm的</string>
     <string name="special_alarm_settings">特别闹钟设置</string>
-    <string name="early_access_to_new_features">抢先体验新功能</string>
-    <string name="buy_once_enjoy_forever">一次购买，永久享用！</string>
+    <string name="early_access_to_new_features">1</string>
+    <string name="buy_once_enjoy_forever">1111</string>
     <string name="get_it_now">立即获取！</string>
     <string name="not_now">稍后</string>
-    <string name="qralarm_pro_package_name" translatable="false">com.sweak.qralarm.pro</string>
+    <string name="qralarm_pro_package_name" translatable="false">安卓大作业</string>
     <string name="special_settings">特殊设置</string>
-    <string name="do_not_leave_alarm">不要离开闹钟</string>
-    <string name="do_not_leave_alarm_description">闹钟响铃时保持显示闹钟屏幕。</string>
+    <string name="do_not_leave_alarm">保持屏幕常量</string>
+    <string name="do_not_leave_alarm_description">闹钟响铃时保持显示闹钟屏幕·🤳</string>
     <string name="block_volume_down">禁止调低音量</string>
-    <string name="block_volume_down_description">不允许调低闹钟铃声的音量。</string>
+    <string name="block_volume_down_description">不允许调低闹钟铃声的音量🤖</string>
     <string name="alarm_didnt_ring">闹钟没有响？⏰</string>
     <string name="alarm_didnt_ring_description">上一个闹钟错过了吗？如果是，请确保您已按照我们的优化指南操作，以确保QRAlarm在您的系统中正常工作！</string>
     <string name="optimize_now">立即优化！</string>
@@ -159,17 +159,17 @@
     <string name="next_alarm_date">下一个：%1$s</string>
     <string name="alarm_label">闹钟标签</string>
     <string name="enter_your_alarm_label">请输入您的闹钟标签…</string>
-    <string name="open_code_link">打开代码链接</string>
-    <string name="open_code_link_description">如果代码包含有效的URL，应用将在扫描后自动打开该链接。</string>
+    <string name="open_code_link">打开二维码中的链接</string>
+    <string name="open_code_link_description">如果二维码包含有效的URL，应用将在扫描后自动打开该链接</string>
     <string name="do_you_enjoy_qralarm">您喜欢QRAlarm吗？🚀 ⏰</string>
-    <string name="im_working_hard">我正在努力让您的早晨尽可能顺畅！🫡</string>
+    <string name="im_working_hard">努力让您的早晨尽可能顺利！🫡不错过每一次重要的起床</string>
     <string name="i_love_it_rate_me">我喜欢它 - 给我评分！❤️</string>
     <string name="did_something_go_wrong">出了什么问题吗？\n我们可以一起解决！</string>
     <string name="tell_me_what_is_wrong">告诉我出了什么问题</string>
-    <string name="do_not_show_again">不再显示此页面。</string>
-    <string name="qralarm_github_full_uri" translatable="false">https://github.com/sweakpl/qralarm-android</string>
-    <string name="qralarm_github_issues_full_uri" translatable="false">https://github.com/sweakpl/qralarm-android/issues</string>
-    <string name="rate_qralarm">评分QRAlarm</string>
+    <string name="do_not_show_again">不再显示此页面</string>
+    <string name="qralarm_github_full_uri" translatable="false">安卓大作业</string>
+    <string name="qralarm_github_issues_full_uri" translatable="false">小组成员：黄嘉逸、梁锦棕、孙铎誉</string>
+    <string name="rate_qralarm">评分</string>
     <string name="previous">上一页</string>
 
 </resources>

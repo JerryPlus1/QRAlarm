@@ -108,10 +108,10 @@ fun MenuScreenContent(
                     onClick = { onEvent(MenuScreenUserEvent.OnOptimizationGuideClicked) }
                 )
 
-                MenuEntry(
-                    title = stringResource(R.string.qralarm_pro),
-                    onClick = { onEvent(MenuScreenUserEvent.OnQRAlarmProClicked) }
-                )
+//                MenuEntry(
+//                    title = stringResource(R.string.qralarm_pro),
+//                    onClick = { onEvent(MenuScreenUserEvent.OnQRAlarmProClicked) }
+//                )
 
                 MenuEntry(
                     title = stringResource(R.string.rate_qralarm),
