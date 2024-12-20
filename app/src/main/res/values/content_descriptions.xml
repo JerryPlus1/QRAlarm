@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="content_description_qralarm_icon">QRAlarm icon</string>
+    <string name="content_description_add_icon">Add (plus) icon</string>
+    <string name="content_description_menu_icon">Menu icon</string>
+    <string name="content_description_close_icon">Close icon</string>
+    <string name="content_description_done_icon">Done icon</string>
+    <string name="content_description_forward_arrow_icon">Forward arrow icon</string>
+    <string name="content_description_back_arrow_icon">Back arrow icon</string>
+    <string name="content_description_drop_down_arrow_icon">Drop down arrow icon</string>
+    <string name="content_description_play_icon">Play icon</string>
+    <string name="content_description_stop_icon">Stop icon</string>
+    <string name="content_description_edit_icon">Edit icon</string>
+    <string name="content_description_more_icon">More options icon</string>
+    <string name="content_description_qr_code_scanner_icon">QR code scanner icon</string>
+    <string name="content_description_delete_icon">Delete icon</string>
+    <string name="content_description_camera_icon">Camera icon</string>
+    <string name="content_description_alarm_icon">Alarm icon</string>
+    <string name="content_description_notification_icon">Notification icon</string>
+    <string name="content_description_full_screen_icon">Full screen display icon</string>
+    <string name="content_description_no_qr_code_icon">Disabled QR code icon</string>
+    <string name="content_description_automatic_settings_icon">Automatic settings icon</string>
+    <string name="content_description_app_settings_icon">Application settings icon</string>
+    <string name="content_description_special_app_settings_icon">Special app settings icon</string>
+    <string name="content_description_star_icon">Star icon</string>
+    <string name="content_description_special_alarm_settings_icon">Special alarm settings icon</string>
+    <string name="content_description_early_access_icon">Early access icon</string>
+    <string name="content_description_access_forever_icon">Access forever icon</string>
+    <string name="content_description_flash_icon">Flash icon</string>
+    <string name="content_description_undo_icon">Undo changes icon</string>
+    <string name="content_description_skip_next_alarm_icon">Skip next alarm icon</string>
+    <string name="content_description_label_icon">Label icon</string>
+
+    <string name="content_description_wake_up_catchphrase_image">Image showing a friendly stick man lying in bed woken up.</string>
+    <string name="content_description_get_up_catchphrase_image">Image showing a smiling stick man walking with their phone ringing.</string>
+    <string name="content_description_rise_up_catchphrase_image">Image showing a happy stick man after they scanned the QR Code with their phone.</string>
+    <string name="content_description_qralarm_pro_image">QRAlarm PRO app icon image</string>
+    <string name="content_description_five_stars_image">Five golden stars image</string>
+</resources>
