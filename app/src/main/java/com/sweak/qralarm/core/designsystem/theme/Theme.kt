@@ -7,16 +7,16 @@ import androidx.compose.runtime.CompositionLocalProvider
 import androidx.compose.ui.graphics.Color
 
 private val ColorScheme = lightColorScheme(
-    primary = Jacarta,
+    primary = molandBlue,
     onPrimary = Color.White,
-    secondary = BlueZodiac,
+    secondary = OceanBlue,
     onSecondary = Color.White,
-    tertiary = ButterflyBush,
+    tertiary = LightCoral,
     onTertiary = Color.White,
-    surface = ButterflyBush,
+    surface = DeepSkyBlue,
     onSurface = Color.White,
-    onSurfaceVariant = Nobel,
-    error = Monza,
+    onSurfaceVariant = LightGray,
+    error = LightCoral,
     onError = Color.White
 )
 
