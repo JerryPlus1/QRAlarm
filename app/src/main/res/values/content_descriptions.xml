@@ -34,6 +34,6 @@
     <string name="content_description_wake_up_catchphrase_image">图像显示一个友好的火柴人躺在床上被叫醒。</string>
     <string name="content_description_get_up_catchphrase_image">图像显示一个微笑的火柴人走路时手机响铃。</string>
     <string name="content_description_rise_up_catchphrase_image">图像显示一个高兴的火柴人扫描二维码后。</string>
-    <string name="content_description_qralarm_pro_image">QRAlarm PRO 应用图标图像</string>
+    <string name="content_description_qralarm_pro_image">应用图标图像</string>
     <string name="content_description_five_stars_image">五颗金星图像</string>
 </resources>
