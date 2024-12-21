@@ -114,15 +114,15 @@
     <string name="introduction">简介</string>
     <string name="everyday">每天</string>
     <string name="no_alarms">简介</string>
-    <string name="create_using_button">这是移动互联网小组大作业 \n QRalarm 一个扫码才能关闭的闹钟 \n 小组成员 \n 黄嘉逸 20222034033 \n 孙铎誉 20222034018 \n 梁锦棕 20222034051\n使用上方或下方的 + 按钮创建一个闹钟</string>
-    <string name="optimization_guide">优化指南</string>
-    <string name="optimize_qralarm">优化QRAlarm</string>
-    <string name="ensure_the_best_performance">确保权限已经被授予！⏰ 🚀</string>
-    <string name="optimization_screen_description">想要 QRAlarm 陪你开启超棒的早晨吗？快来康康这些最佳设置，让它在你的系统里火力全开，带你嗨翻每个清晨！ 😍</string>
+    <string name="create_using_button">这是移动互联网小组大作业 \n QRalarm 一个扫码才能关闭的闹钟 \n 小组成员 \n 🥳黄嘉逸 20222034033 \n 😘孙铎誉 20222034018 \n 😎梁锦棕 20222034051\n使用上方或下方的 + 按钮创建一个闹钟</string>
+    <string name="optimization_guide">获取闹钟运行的安卓权限</string>
+    <string name="optimize_qralarm">获取权限</string>
+    <string name="ensure_the_best_performance">确保我们的应用已经获取权限！⏰ 🚀</string>
+    <string name="optimization_screen_description">想要 QRAlarm 闹钟陪你开启超棒的早晨吗？快来康康这些最佳设置，让它在你的系统里火力全开，带你嗨翻每个清晨！ 😍</string>
     <string name="enable_background_work">保留后台任务💡</string>
     <string name="enable_background_work_description">不允许系统干扰您的闹钟，确保您安心入睡！😴😴💤</string>
     <string name="fully_optimize_for_your_system">为您的系统全面优化</string>
-    <string name="fully_optimize_for_your_system_description">某些Android系统对运行中的应用有特定限制，可能会影响闹钟的运行，按照您的手机说明进行优化：</string>
+    <string name="fully_optimize_for_your_system_description">某些Android系统对运行中的应用有特定限制，可能会影响闹钟的运行，按照您的手机说明进行优化</string>
     <string name="ensure_the_best_settings_possible">确保最佳设置</string>
     <string name="ensure_the_best_settings_possible_description">确保以下设置已启用：</string>
     <string name="display_on_lock_screen_description">闹钟响起时，闹钟将在锁屏上显示</string>
@@ -143,7 +143,7 @@
     <string name="early_access_to_new_features">1</string>
     <string name="buy_once_enjoy_forever">1111</string>
     <string name="get_it_now">立即获取！</string>
-    <string name="not_now">稍后</string>
+    <string name="not_now">退出</string>
     <string name="qralarm_pro_package_name" translatable="false">安卓大作业</string>
     <string name="special_settings">特殊设置</string>
     <string name="do_not_leave_alarm">保持屏幕常量</string>
@@ -161,15 +161,15 @@
     <string name="enter_your_alarm_label">请输入您的闹钟标签…</string>
     <string name="open_code_link">打开二维码中的链接</string>
     <string name="open_code_link_description">如果二维码包含有效的URL，应用将在扫描后自动打开该链接</string>
-    <string name="do_you_enjoy_qralarm">您喜欢QRAlarm吗？错🚀 ⏰</string>
-    <string name="im_working_hard">努力让您的早晨尽可能顺利！🫡不过每一次重要的起床</string>
+    <string name="do_you_enjoy_qralarm">您喜欢我们的小组大作业吗？🚀 ⏰</string>
+    <string name="im_working_hard">这是移动互联网小组大作业 \n QRalarm 一个扫码才能关闭的闹钟 \n 小组成员 \n 🥳黄嘉逸 20222034033 \n 😘孙铎誉 20222034018 \n 😎梁锦棕 20222034051</string>
     <string name="i_love_it_rate_me">我喜欢它 - 给我评分！❤️</string>
-    <string name="did_something_go_wrong">出了什么问题吗？\n我们可以一起解决！</string>
+    <string name="did_something_go_wrong">希望老师可以给一个高分💡\n</string>
     <string name="tell_me_what_is_wrong">告诉我出了什么问题</string>
     <string name="do_not_show_again">不再显示此页面</string>
     <string name="qralarm_github_full_uri" translatable="false">安卓大作业</string>
     <string name="qralarm_github_issues_full_uri" translatable="false">小组成员：黄嘉逸、梁锦棕、孙铎誉</string>
-    <string name="rate_qralarm">评分</string>
+    <string name="rate_qralarm">关于安卓大作业</string>
     <string name="previous">上一页</string>
 
 </resources>

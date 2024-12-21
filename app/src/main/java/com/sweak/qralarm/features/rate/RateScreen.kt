@@ -169,21 +169,21 @@ fun RateScreenContent(
 
                 Spacer(modifier = Modifier.height(MaterialTheme.space.mediumLarge))
 
-                Button(
-                    onClick = { onEvent(RateScreenUserEvent.RateMeClicked) },
-                    colors = ButtonDefaults.buttonColors(
-                        containerColor = MaterialTheme.colorScheme.tertiary
-                    ),
-                    modifier = Modifier
-                        .height(height = MaterialTheme.space.xxLarge)
-                        .fillMaxWidth()
-                        .padding(horizontal = MaterialTheme.space.large)
-                ) {
-                    Text(
-                        text = stringResource(R.string.i_love_it_rate_me),
-                        style = MaterialTheme.typography.titleLarge
-                    )
-                }
+//                Button(
+//                    onClick = { onEvent(RateScreenUserEvent.RateMeClicked) },
+//                    colors = ButtonDefaults.buttonColors(
+//                        containerColor = MaterialTheme.colorScheme.tertiary
+//                    ),
+//                    modifier = Modifier
+//                        .height(height = MaterialTheme.space.xxLarge)
+//                        .fillMaxWidth()
+//                        .padding(horizontal = MaterialTheme.space.large)
+//                ) {
+//                    Text(
+//                        text = stringResource(R.string.i_love_it_rate_me),
+//                        style = MaterialTheme.typography.titleLarge
+//                    )
+//                }
 
                 Text(
                     text = stringResource(R.string.did_something_go_wrong),
@@ -199,22 +199,22 @@ fun RateScreenContent(
                         )
                 )
 
-                OutlinedButton(
-                    onClick = { onEvent(RateScreenUserEvent.SomethingWrongClicked) },
-                    colors = ButtonDefaults.outlinedButtonColors(
-                        contentColor = MaterialTheme.colorScheme.onSecondary
-                    ),
-                    border = BorderStroke(
-                        width = 1.dp,
-                        color = MaterialTheme.colorScheme.onSecondary
-                    ),
-                    modifier = Modifier.padding(horizontal = MaterialTheme.space.large)
-                ) {
-                    Text(
-                        text = stringResource(R.string.tell_me_what_is_wrong),
-                        style = MaterialTheme.typography.labelLarge
-                    )
-                }
+//                OutlinedButton(
+//                    onClick = { onEvent(RateScreenUserEvent.SomethingWrongClicked) },
+//                    colors = ButtonDefaults.outlinedButtonColors(
+//                        contentColor = MaterialTheme.colorScheme.onSecondary
+//                    ),
+//                    border = BorderStroke(
+//                        width = 1.dp,
+//                        color = MaterialTheme.colorScheme.onSecondary
+//                    ),
+//                    modifier = Modifier.padding(horizontal = MaterialTheme.space.large)
+//                ) {
+//                    Text(
+//                        text = stringResource(R.string.tell_me_what_is_wrong),
+//                        style = MaterialTheme.typography.labelLarge
+//                    )
+//                }
 
                 Row(
                     verticalAlignment = Alignment.CenterVertically,

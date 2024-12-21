@@ -5,7 +5,7 @@ import androidx.compose.ui.graphics.Color
 val Jacarta = Color(0xFF38285C)
 val BlueZodiac = Color(0xFF0C1445)
 val ButterflyBush = Color(0xFF464f7a)
-val Monza = Color(0xFFB00020)
+val Monza = Color(0xFFEF9CA3)
 val Nobel = Color(0xFFB7B7B7)
 val Gray = Color(0xFF808080)
 val GirlPink = Color(0xFFF5DCE2)
