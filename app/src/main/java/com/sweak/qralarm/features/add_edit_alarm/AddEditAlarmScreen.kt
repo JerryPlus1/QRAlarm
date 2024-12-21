@@ -1163,7 +1163,7 @@ private fun AddEditAlarmScreenContent(
                                     }
 
                                     QRAlarmSwitch(
-                                        checked = state.areVibrationsEnabled,
+                                        checked = state.isCodeEnabled,
                                         onCheckedChange = {
                                             onEvent(
                                                 AddEditAlarmScreenUserEvent.VibrationsEnabledChanged(
